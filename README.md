@@ -1,8 +1,10 @@
 # AIFFEL_quest_rs
-아이펠 리서처 19기 퀘스트 수행 기록 레포지토리입니다.
-MainQuest, Exploration, GoingDeeper 퀘스트별 코드와 회고를 정리합니다.
 
-## 레포지토리 구조
+- AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repository입니다.
+- 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.
+
+레포 구조:
+
 ```bash
 AIFFEL_quest_rs
 ├── MainQuest
